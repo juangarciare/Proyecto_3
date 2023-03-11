@@ -1,5 +1,6 @@
-###Proyecto Individual - Data Analytics
-##Analista: Garcia Resssia, Juan Ignacio
+Proyecto Individual - Data Analytics
+
+Analista: Garcia Resssia, Juan Ignacio
 
 ##Este README es una guía por mi análisis:
 
@@ -16,6 +17,7 @@ Wordcloud_Udemy - El wordcloud específico de la plataforma coursera sobre sus t
 coursera_1 - El Dataframe final de la plataforma coursera, limpio para utilizar en powerBI.
 edx_1 - El Dataframe final de la plataforma edx, limpio para utilizar en powerBI.
 udemy_1 - El Dataframe final de la plataforma udemy, limpio para utilizar en powerBI.
+
 🟣 Objetivo: 🟣
 
 🔹 Una startup de tecnología está interesada en sumarse al mercado de cursos online, pero de una manera eficiente, por lo que compró datasets de posibles competidores para analizar y sacar conclusiones de los datos recolectados.
